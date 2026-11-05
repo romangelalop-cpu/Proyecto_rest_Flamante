@@ -1,4 +1,5 @@
  Flamante - Landing Page Transaccional & Menú Interactivo (Creado en Bolt con asistencia de Gemini)
+link: https://flamante-mexican-res-hd9k.bolt.host/
 
 "Come como un Dios" — Una experiencia digital vibrante, moderna y transaccional para el restaurante de comida mexicana y mariscos Flamante.
 
